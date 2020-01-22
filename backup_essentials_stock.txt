@@ -1,0 +1,13 @@
+Product Name: Milo, Quants: 5, Price: Ghs 25.000000
+Product Name: Milk, Quants: 90, Price: Ghs 20.000000
+Product Name: VolticSmall, Quants: 100, Price: Ghs 1.200000
+Product Name: VolticBig, Quants: 180, Price: Ghs 2.500000
+Product Name: VolticMedium, Quants: 89, Price: Ghs 1.800000
+Product Name: Sardine, Quants: 470, Price: Ghs 4.800000
+Product Name: Bread, Quants: 46, Price: Ghs 0.600000
+Product Name: Kalyppo, Quants: 160, Price: Ghs 1.500000
+Product Name: BlueSkies, Quants: 82, Price: Ghs 9.000000
+Product Name: Pens, Quants: 480, Price: Ghs 1.000000
+
+Edited by Fifi Ben at 22/01/2020 11:48:12
+---------------------------------------------------------
